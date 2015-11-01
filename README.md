@@ -34,6 +34,7 @@ Some options are removed will you add it?
 -------------------
 
 * No, my philosophy is to always use the latest software and use it with latest security options (if possible), so I won't look behind and add xyz config because someone want to use an outdated version. No, sorry at this point, your own your own if do so. 
+* I will immediately remove outdated stuff (always).
 
 
 
@@ -44,6 +45,7 @@ How can I help?
 * Ensure you looked at my [issue tracker](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/issues) and used the search to not avoid dublicate questions.
 * There will be no wiki, so the Readme.md is our ground for questions/answers. If something is missing open an ticket/pull and I will look at it for sure.
 * Ensure you use the very latest Tor Messenger and you compared the prefs.js with the modded one.
+* If you request for a about:config change, please provide a link for reference, do not just create a pull request with the change without any discussion ground. So minimum an explanation or link is nessary.
 * The rest is up to you, feel free to contribute! :)
 
 
