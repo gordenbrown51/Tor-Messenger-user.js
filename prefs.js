@@ -15,7 +15,6 @@ user_pref("dom.battery.enabled", false);
 user_pref("dom.enable_performance", false);
 user_pref("dom.event.clipboardevents.enabled", false);
 user_pref("extensions.blocklist.pingCountVersion", 0);
-user_pref("extensions.lastPlatformVersion", "41.0");
 user_pref("extensions.pendingOperations", false);
 user_pref("extensions.shownSelectionUI", true);
 user_pref("extensions.torlauncher.prompt_at_startup", false);
