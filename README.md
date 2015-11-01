@@ -37,8 +37,21 @@ Some options are removed will you add it?
 
 
 
+How can I help?
+-------------------
+
+* Ensure you looked at the Tor bugreport tracker first before you report anything, maybe it's already on the todo or known.
+* Ensure you looked at my [issue tracker](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/issues) and used the search to not avoid dublicate questions.
+* There will be no wiki, so the Readme.md is our ground for questions/answers. If something is missing open an ticket/pull and I will look at it for sure.
+* Ensure you use the very latest Tor Messenger and you compared the prefs.js with the modded one.
+* The rest is up to you, feel free to contribute! :)
+
+
+
 References
 -------------------
 
 * [Tor Messenger Beta: Chat over Tor, Easily (blog.torproject.org)](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily)
+* [Tor Messenger Build Instructions (gitweb.torproject.org)](https://gitweb.torproject.org/tor-messenger-build.git/tree/README)
+* [Official Tor BugTracker (trac.torproject.org)](https://trac.torproject.org/projects/tor/report)
 * [Official Tor Messenger Downloads (dist.torproject.org)](https://dist.torproject.org/tormessenger/)
