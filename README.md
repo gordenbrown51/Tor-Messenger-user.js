@@ -53,7 +53,8 @@ How can I help?
 References
 -------------------
 
-* [Tor Messenger Beta: Chat over Tor, Easily (blog.torproject.org)](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily)
+* [Tor Messenger Beta: Chat over Tor, Easily (blog.torproject.org)](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) 
+* [Official Tor Messenger Website 8GitHub.com)](https://github.com/arlolra/tor-messenger-website)
 * [Tor Messenger Build Instructions (gitweb.torproject.org)](https://gitweb.torproject.org/tor-messenger-build.git/tree/README)
-* [Official Tor BugTracker (trac.torproject.org)](https://trac.torproject.org/projects/tor/report)
+* [Official Tor BugTracker (trac.torproject.org)](https://trac.torproject.org/projects/tor/query?status=!closed&component=Tor+Messenger)
 * [Official Tor Messenger Downloads (dist.torproject.org)](https://dist.torproject.org/tormessenger/)

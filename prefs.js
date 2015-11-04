@@ -55,3 +55,10 @@ user_pref("network.http.referer.spoofSource", true);
 user_pref("plugin.scan.Acrobat; "");
 user_pref("plugin.scan.WindowsMediaPlayer; "");
 user_pref("plugins.click_to_play", true);
+// logging
+// https://github.com/arlolra/ctypes-otr/issues/49
+// https://trac.torproject.org/projects/tor/ticket/17411#comment:5
+//user_pref("purple.logging.log_chats", false);
+//user_pref("purple.logging.log_ims", false);
+//user_pref("purple.logging.log_system", false);
+// end logging
