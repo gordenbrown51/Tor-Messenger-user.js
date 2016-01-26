@@ -1,7 +1,9 @@
 # Mozilla User Preferences
 
-/* This is an hardened version by CHEF-KOCh and his Tor-Messenger-user.js project
- * https://github.com/CHEF-KOCH/Tor-Messenger-user.js
+/* This is an hardened version by CHEF-KOCH and his Tor-Messenger-user.js project
+ * The project can be found here: https://github.com/CHEF-KOCH/Tor-Messenger-user.js
+ * 
+ * This is seperated from the official Tor Messenger Project.
  */
 
 user_pref("app.update.auto", true);
