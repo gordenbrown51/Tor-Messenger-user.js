@@ -25,7 +25,7 @@ What is the benefit using this?
 Some insecure things are enabled, why?
 -------------------
 
-* Because I don't disable everything due the fact that to disable it have no real benefit except theoretically hardening. If you found real pages with attacks, report it to me and I will posible change that, but as long no one found any page / link which compromise the securty aspect within Tor Messenger I will not change that. I really don't a da** about theoretically pages/attacks which shows xyz possible attack which mostly requires Javascript and such enabled. I prefer real world examples. Theoretically all is possible but so what?!
+* Because I don't disable everything due the fact that to disable it have no real benefit except theoretically hardening. If you found real pages with attacks, report it to me and I will possible change that, but as long no one found any page / link which compromise the security aspect within Tor Messenger I will not change that. I really don't a da** about theoretically pages/attacks which shows xyz possible attack which mostly requires Javascript and such enabled. I prefer real world examples. Theoretically all is possible but so what?!
 * E.g. safe-browsing/disk cache/ssl reporting/javascript is enabled for several reasons. Since we use OTR by default it makes no sense to e.g. touch disk cache. The other option are enabled for security reasons or to not lower the 'fun' since it might break other things, a Messenger isn't a browser, please keep that in mind!
 
 
@@ -42,10 +42,10 @@ How can I help?
 -------------------
 
 * Ensure you looked at the Tor bugreport tracker first before you report anything, maybe it's already on the todo or known.
-* Ensure you looked at my [issue tracker](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/issues) and used the search to not avoid dublicate questions.
+* Ensure you looked at my [issue tracker](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/issues) and used the search to not avoid duplicate questions.
 * There will be no wiki, so the Readme.md is our ground for questions/answers. If something is missing open an ticket/pull and I will look at it for sure.
 * Ensure you use the very latest Tor Messenger and you compared the prefs.js with the modded one.
-* If you request for a about:config change, please provide a link for reference, do not just create a pull request with the change without any discussion ground. So minimum an explanation or link is nessary.
+* If you request for a about:config change, please provide a link for reference, do not just create a pull request with the change without any discussion ground. So minimum an explanation or link is necessary.
 * The rest is up to you, feel free to contribute! :)
 
 

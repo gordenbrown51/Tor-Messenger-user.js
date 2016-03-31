@@ -1,6 +1,7 @@
 # Mozilla User Preferences
 
-/* This is an hardened version by CHEF-KOCH and his Tor-Messenger-user.js project
+/* This is an hardened version prefs.js file by CHEF-KOCH
+ *
  * The project can be found here: https://github.com/CHEF-KOCH/Tor-Messenger-user.js
  * 
  * This is seperated from the official Tor Messenger Project.
