@@ -33,7 +33,7 @@ Some insecure things are enabled, why?
 Some options are removed will you add it?
 -------------------
 
-* No, my philosophy is to always use the latest software and use it with latest security options (if possible), so I won't look behind and add xyz config because someone want to use an outdated version. No, sorry at this point, your own your own if do so. 
+* No, my philosophy is to always use the latest software and use it with latest security options (if possible), so I won't look behind and add xyz config because someone want to use an outdated version. No sorry at this point, your on your own if you do so. 
 * I will immediately remove outdated stuff (always).
 
 
