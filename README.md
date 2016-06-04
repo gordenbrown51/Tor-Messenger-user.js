@@ -3,7 +3,7 @@
 This will harden the Tor Messenger user.js for maximum possible security. As far as it possible.
 
 
-This is original released by CHEF-KOCH 2015 under the [GNU GENERAL PUBLIC LICENSE v2](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/blob/master/LICENSE) license. 
+This is original released by CHEF-KOCH 2015 - 2016 under the [GNU GENERAL PUBLIC LICENSE v2](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/blob/master/LICENSE) license. 
 
 
 Please note that the entire messenger is currently in beta, so everything can be changed with newer versions! I will keep an eye on it and update this as soon as possible.
