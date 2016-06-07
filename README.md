@@ -41,9 +41,9 @@ Some options are removed will you add it?
 How can I help?
 -------------------
 
-* Ensure you looked at the Tor bugreport tracker first before you report anything, maybe it's already on the todo or known.
+* Ensure you looked at the Tor bug-report tracker first before you report anything, maybe it's already on the to-do or known.
 * Ensure you looked at my [issue tracker](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/issues) and used the search to not avoid duplicate questions.
-* There will be no wiki, so the Readme.md is our ground for questions/answers. If something is missing open an ticket/pull and I will look at it for sure.
+* There will be no Wiki, so the Readme.md is our ground for questions/answers. If something is missing open an ticket/pull and I will look at it for sure.
 * Ensure you use the very latest Tor Messenger and you compared the prefs.js with the modded one.
 * If you request for a about:config change, please provide a link for reference, do not just create a pull request with the change without any discussion ground. So minimum an explanation or link is necessary.
 * The rest is up to you, feel free to contribute! :)
@@ -54,7 +54,7 @@ References
 -------------------
 
 * [Tor Messenger Beta: Chat over Tor, Easily (blog.torproject.org)](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) 
-* [Official Tor Messenger Website 8GitHub.com)](https://github.com/arlolra/tor-messenger-website)
+* [Official Tor Messenger Website (GitHub.com)](https://github.com/arlolra/tor-messenger-website)
 * [Tor Messenger Build Instructions (gitweb.torproject.org)](https://gitweb.torproject.org/tor-messenger-build.git/tree/README)
 * [Official Tor BugTracker (trac.torproject.org)](https://trac.torproject.org/projects/tor/query?status=!closed&component=Tor+Messenger)
 * [Official Tor Messenger Downloads (dist.torproject.org)](https://dist.torproject.org/tormessenger/)
