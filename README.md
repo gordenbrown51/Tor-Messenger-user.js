@@ -4,7 +4,18 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-The project is no longer under development since the Tor Messenger is dead. Yep, it's dead JIM!
+This Project is no longer under active development since the Tor Messenger is dead. Yep, it's dead JIM!
+-------------------
+
+Alternatives
+-------------------
+
+* [Threema](https://threema.ch/en)
+* [Signal](https://signal.org)
+* [Matrix (Riot)](https://matrix.org/blog/try-matrix-now)
+
+Project Overview
+-------------------
 
 This will harden the Tor Messenger user.js for maximum possible security. As far as it possible.
 
