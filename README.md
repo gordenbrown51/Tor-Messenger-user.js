@@ -1,13 +1,15 @@
 # Tor-Messenger-user.js
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
+
+The project is no longer under development since the Tor Messenger is dead. Yep, it's dead JIM!
 
 This will harden the Tor Messenger user.js for maximum possible security. As far as it possible.
 
 
-This is original released by CHEF-KOCH 2015 - 2016 under the [GNU GENERAL PUBLIC LICENSE v2](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/blob/master/LICENSE) license. 
+This is original released by CHEF-KOCH 2015 - 2018 under the [GNU GENERAL PUBLIC LICENSE v2](https://github.com/CHEF-KOCH/Tor-Messenger-user.js/blob/master/LICENSE) license. 
 
 
 Please note that the entire messenger is currently in beta, so everything can be changed with newer versions! I will keep an eye on it and update this as soon as possible.
@@ -57,6 +59,7 @@ How can I help?
 References
 -------------------
 
+* [Tor ‘sunsets’ secure Messenger that never exited beta](https://www.theregister.co.uk/2018/04/03/tor_messenger_sunset/)
 * [Tor Messenger Beta: Chat over Tor, Easily (blog.torproject.org)](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) 
 * [Official Tor Messenger Website (GitHub.com)](https://github.com/arlolra/tor-messenger-website)
 * [Tor Messenger Build Instructions (gitweb.torproject.org)](https://gitweb.torproject.org/tor-messenger-build.git/tree/README)
